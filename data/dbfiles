@@ -1,0 +1,9 @@
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.mdf
+*.myd
+*.dbf
+*.wdb
+
