@@ -20,8 +20,13 @@ https://github.com/craigz28/firmwalker
 *.wdb
 ```
 
-## passfiles
+
+## patterns
 ```
+cmd=
+exec=
+command=
+execute=
 AccessKey
 accesskey
 AccessKeySecret
@@ -137,14 +142,6 @@ encryption_password
 env.heroku_api_key
 env.sonatype_password
 eureka.awssecretkey
-```
-
-## patterns
-```
-cmd=
-exec=
-command=
-execute=
 ```
 
 ## files
